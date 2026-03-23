@@ -1,6 +1,6 @@
 # 🌍 TERRA - XMD
 
-> Bot WhatsApp multi-fonctions propulsé par **Baileys** & **Node.js**
+> Bot WhatsApp multi-fonctions propulsé par **crazy** en **Node.js**
 
 ```
 ████████╗███████╗██████╗ ██████╗  █████╗      ██╗  ██╗███╗   ███╗██████╗ 
@@ -35,7 +35,7 @@
 
 ```bash
 # 1. Cloner le projet
-git clone https://github.com/TON_USERNAME/TERRA-XMD
+git clone https://github.com/Crazynotdev/TERRA-XMD
 cd TERRA-XMD
 
 # 2. Installer les dépendances
