@@ -1,5 +1,7 @@
 # 🌍 TERRA - XMD
 
+# BOT OPEN SOURCE FOR YOU BY ME
+
 > Bot WhatsApp multi-fonctions propulsé par **crazy** en **Node.js**
 
 ```
